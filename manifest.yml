@@ -1,0 +1,4 @@
+---
+applications:
+- name: maths-genius
+  memory: 128M
